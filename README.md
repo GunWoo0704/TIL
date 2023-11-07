@@ -1,6 +1,16 @@
-#멀티미디어 실습
+# 멀티미디어 실습
 
 > 2023년 가을학기에 진행한 GIT 수업 정리
+
+## 2023-11-01
+### 브랜치 병합
+
+명령어 
+- Merge : git merge 
+- New Branch : git branch 
+- Brranch Movement : git checkout branchname
+
+- 브랜치 병합시 충돌이 일어나지 않게 하려면 두 브랜치에서 수정한 코드가 겹치지 않아야 함
 
 ## 2023-10-18
 
